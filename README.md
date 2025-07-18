@@ -64,10 +64,7 @@ _Include screenshots or charts from your notebook here if available_
 
 ---
 
-## 📫 Connect with Me
-
-**Muhammad Hamid Raza**  
-🔗 [LinkedIn](http://www.linkedin.com/in/muhammad-hamid-raza-082aa62ba)
+cotact me if any query
 
 ---
 
